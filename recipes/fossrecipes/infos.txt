@@ -1,0 +1,8 @@
+title: FOSS Family Recipes
+source: 
+  url: https://github.com/thenaterhood/fossrecipes
+  last-commit: 2023-10-30
+license: 
+  short: CC0-1.0
+  text: "Recipes: Public domain CC0. Attribution is appreciated, but not required."
+

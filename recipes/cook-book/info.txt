@@ -1,0 +1,6 @@
+title: CompSoc Cook Book!
+source: 
+  url: https://github.com/compsoc-edinburgh/cook-book
+  last-commit: 2022-08-21
+license: "Content provided under the Creative Commons Zero v1.0 Universal license."
+
