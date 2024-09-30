@@ -1,0 +1,25 @@
+| Item                          | Dry     | Soaked  |
+| ----------------------------- | ------- | ------- |
+| Black beans                   | 20 - 25 | 6 - 8   |
+| Black-eyed peas               | 14 - 18 | 4 - 5   |
+| Chickpeas                     | 35 - 40 | 10 - 15 |
+| Cannellini beans              | 20 - 25 | 6 - 8   |
+| Great Northern Beans          | 25 - 30 | 7 - 8   |
+| Kidney beans                  | 20 - 25 | 7 - 8   |
+| Lima beans                    | 12 - 14 | 6 - 10  |
+| Navy beans                    | 20 - 25 | 7 - 8   |
+| Pinto beans                   | 25 - 30 | 6 - 9   |
+| Soy beans                     | 35 - 45 | 18 - 20 |
+| Peas                          | 16 - 20 | 10 - 12 |
+| Lentils, red or yellow, split | 8 - 10  | N/A     |
+| Lentils, green or brown       | 1 - 2   | N/A     |
+
+---
+current:
+  title: Legumes Cooking Times
+  note: times are in minutes
+  source:
+    url: https://github.com/KonkeyDong/recipes/blob/master/instant_pot_cook_times/README.md
+  license:
+    short: CC0-1.0
+...

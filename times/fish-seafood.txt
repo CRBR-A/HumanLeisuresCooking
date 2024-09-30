@@ -1,0 +1,19 @@
+| Item             | Fresh | Frozen |
+| ---------------- | ----- | ------ |
+| Fish, whole      | 4 - 5 | 5 - 7  |
+| Fish, fillet     | 2 - 3 | 3 - 4  |
+| Fish, steak      | 3 - 4 | 4 - 6  |
+| Crab, whole      | 2 - 3 | 4 - 5  |
+| Lobster          | 2 - 3 | 3 - 4  |
+| Mussels          | 1 - 2 | 2 - 3  |
+| Shrimp or prawns | 1 - 3 | 2 - 4  |
+
+---
+current:
+  title: Fish and seafood Cooking Times
+  note: times are in minutes
+  source:
+    url: https://github.com/KonkeyDong/recipes/blob/master/instant_pot_cook_times/README.md
+  license:
+    short: CC0-1.0
+...

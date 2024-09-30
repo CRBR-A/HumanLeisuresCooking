@@ -1,0 +1,32 @@
+| Item                      | Cooking Time (per pound) |
+| ------------------------- | ------------------------ |
+| Beef, stew meat           | 20                       |
+| Beef ribs                 | 20 - 25                  |
+| Beef roast, 2-3" pieces   | 15 - 20                  |
+| Beef, meatballs           | 5                        |
+| Beef, oxtail              | 40 - 50                  |
+| Beef, shanks              | 25 - 30                  |
+| Pork, loin                | 20                       |
+| Pork, butt                | 15                       |
+| Pork, ribs                | 15 - 20                  |
+| Ham, steaks               | 9 - 12                   |
+| Ham, picnic shoulder      | 8                        |
+| Chicken breasts, boneless | 6 - 8                    |
+| Chicken, whole            | 8                        |
+| Turkey breast, boneless   | 7 - 9                    |
+| Turkey leg                | 15 - 20                  |
+| Duck                      | 12 - 15                  |
+| Lamb, leg                 | 15                       |
+| Lamb, stew meat           | 12 - 15                  |
+| Veal, chops               | 5 - 8                    |
+| Veal, roast               | 12                       |
+
+---
+current:
+  title: Meat Cooking Times
+  note: times are in minutes
+  source:
+    url: https://github.com/KonkeyDong/recipes/blob/master/instant_pot_cook_times/README.md
+  license:
+    short: CC0-1.0
+...
